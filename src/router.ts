@@ -6,6 +6,7 @@ const router: Router = Router();
 
 //routes 
 router.get('/', firstController.home); 
+router.get('/register', firstController.register)
 
 
 export { router };

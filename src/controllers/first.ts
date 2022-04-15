@@ -6,6 +6,10 @@ class FirstController {
             message: 'Hello world', 
         });
      }
+
+     public register(req: Request, res: Response) {
+         res.render('index')
+     }
 }
 
 
