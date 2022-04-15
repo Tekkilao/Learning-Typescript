@@ -1,0 +1,1 @@
+Learning typescript for the first time, also getting familiar with git kraken and github.
